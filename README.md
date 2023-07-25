@@ -12,5 +12,5 @@ sont payantes.
 
 - Voici le lien drive du projet: https://drive.google.com/drive/folders/11MCW_ld8cKTNTR-tax2n6qCMdP4wLtMI?usp=sharing
 - Voici les identifiants :
-    login : dera	
-    pass:DeraAdmin
+    - login : dera	
+    - pass:DeraAdmin

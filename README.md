@@ -1,7 +1,9 @@
 # SAYNA-TRAVEL-WORDPRESS
-##WordPress project
+## WordPress project
 
-Ce pojet est réalisé par ANDRIANARIJAONA Fiderana. C'est un projet de realisation d'un site web vitrine,
+## Ce pojet est réalisé par ANDRIANARIJAONA Fiderana
+
+C'est un projet de realisation d'un site web vitrine,
 e-commerce en utilisant le CMS WordPress.La partie site vitrine est réalisable sans problème. Par contre, 
 pour la partie e-commerce et reservation, le soucis se pose sur la personnalisation pour suivre la maquette.
 J'aimerais avoir la bonne approche pour apprehender le problème de mis en forme car malgré que j'ai édité des CSS 
